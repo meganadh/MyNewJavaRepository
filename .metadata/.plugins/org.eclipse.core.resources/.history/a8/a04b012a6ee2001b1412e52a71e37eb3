@@ -1,0 +1,19 @@
+package package2;
+
+import package1.MyPackage1BaseClass;
+
+public class MyPackage2DerivedClass extends MyPackage1BaseClass
+{
+	public void myPackage2DerivedClassMethod()
+	{
+		
+	}
+}
+
+class MyPackage2OtherClass
+{
+	public void myPackage2OtherClassMethod()
+	{
+		
+	}
+}

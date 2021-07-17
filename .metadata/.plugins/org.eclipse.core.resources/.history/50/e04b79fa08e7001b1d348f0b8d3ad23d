@@ -1,0 +1,24 @@
+package companyDetails;
+
+import java.util.Scanner;
+
+public class MyClass 
+{
+	public static void main(String[] args) 
+	{
+		//Variable declaration
+		String name;
+		int age;
+		Scanner obj = new Scanner(System.in);
+		
+		//Read data from user
+		System.out.println("Enter your name:");
+		name=obj.nextLine();
+		
+		System.out.println("Enter your age:");
+		age=obj.nextInt();
+		
+		System.out.println("Your name is "+name);
+		System.out.println("Your age is :"+age);
+	}
+}

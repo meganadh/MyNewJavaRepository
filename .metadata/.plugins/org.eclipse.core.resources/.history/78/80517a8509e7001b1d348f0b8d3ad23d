@@ -1,0 +1,23 @@
+package companyDetails;
+
+import java.util.Scanner;
+
+public class MyClass 
+{
+	public static void main(String[] args) 
+	{
+		
+		int n1=4,i,fact1=1;
+		int n2=5,fact2=1;
+		
+		for(i=1;i<=n1;i++)
+			fact1=fact1*i;
+		
+		for(i=1;i<=n2;i++)
+			fact2=fact2*i;
+		
+		System.out.println(fact1);
+		System.out.println(fact2);
+	
+	}
+}

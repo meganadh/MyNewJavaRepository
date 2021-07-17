@@ -1,0 +1,12 @@
+package mypackage;
+
+public class MyClass 
+{	
+	public static void main(String[] args) 
+	{
+		double data=5.123456789d;
+		
+		System.out.println(data);
+	}
+
+}

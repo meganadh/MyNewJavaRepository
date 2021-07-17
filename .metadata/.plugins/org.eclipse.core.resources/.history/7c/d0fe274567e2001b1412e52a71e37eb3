@@ -1,0 +1,15 @@
+package mypackage;
+
+public class MyClass 
+{	
+	public static void main(String[] args) 
+	{
+		float p=5.5f;
+		
+		int q=(int) p;
+		
+		System.out.println(q);
+		
+	}
+
+}
