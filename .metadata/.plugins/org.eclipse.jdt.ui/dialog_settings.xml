@@ -23,6 +23,8 @@
 		<item key="create_unimplemented" value="true"/>
 	</section>
 	<section name="completion_proposal_size">
+		<item key="size.x" value="389"/>
+		<item key="size.y" value="335"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
