@@ -28,4 +28,20 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\megan\myeclipseprojects"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="MyClass (11) - Day5Project5"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="G:\MyCode\Division.jar"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="G:\MyCode\Division.jar"/>
+			<item value="G:\MyCode\MyProject2.jar"/>
+			<item value="C:\Users\megan\Desktop\MyProject.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="C:\Users\megan\myeclipseprojects.xml"/>
+			<item value=".xml"/>
+		</list>
+	</section>
 </section>
