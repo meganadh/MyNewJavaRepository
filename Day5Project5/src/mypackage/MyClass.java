@@ -23,27 +23,33 @@ public class MyClass
 			
 			System.out.println("Ans="+c);
 			
-			obj.next();
 			
-			obj.close();
-			obj.next();
-			obj.next();
+			
+			
+			//obj.close();
+
 		}
+		
 		catch(InputMismatchException ex)
 		{
 			System.out.println("Please double check if you are entering number or not.");
-			obj.next();
-			obj.next();
-			obj.next();
 		}
 		catch(ArithmeticException ex)
 		{
 			System.out.println("Cannot divide with zero");
-			obj.next();
-			obj.next();
-			obj.next();
 		}
-		
+		catch(Exception Ex)
+		{
+			System.out.println("Some error occured");
+			System.out.println("Please write to : admin@mycompany.com");
+		}
+		finally
+		{
+			System.out.println("\n\n\n\n\n\n\nApplication designed by : meganadh@gmail.com");
+			obj.next();
+			obj.close();
+			System.out.println("Hello");
+		}
 		
 	}
 }
